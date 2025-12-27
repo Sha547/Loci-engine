@@ -1,0 +1,112 @@
+
+> loci@0.0.0 lint
+> eslint .
+
+
+/home/sha5/recall-engine/.venv/lib/python3.12/site-packages/sklearn/utils/_repr_html/estimator.js
+    1:10  error  'copyToClipboard' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  106:10  error  'forceTheme' is defined but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+
+/home/sha5/recall-engine/.venv/lib/python3.12/site-packages/torch/utils/model_dump/code.js
+   57:17  error  'children' is defined but never used                                                       no-unused-vars
+  524:21  error  'offset' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  524:29  error  'size' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  524:35  error  'stride' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  524:43  error  'grad' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  525:12  error  'dtype' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  525:24  error  'device' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  525:32  error  'numel' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  529:21  error  'offset' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  529:29  error  'size' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  529:35  error  'stride' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  529:43  error  'quantizer' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  529:54  error  'grad' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  530:12  error  'dtype' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  530:24  error  'device' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  530:32  error  'numel' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  538:15  error  'name' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  544:19  error  'key' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u        no-unused-vars
+
+/home/sha5/recall-engine/recall-server/venv/lib/python3.12/site-packages/matplotlib/backends/web_backend/js/mpl.js
+    9:16    error    'MozWebSocket' is not defined                                no-undef
+  107:54    error    '_canvas_div' is defined but never used                      no-unused-vars
+  109:52    error    '_canvas_div' is defined but never used                      no-unused-vars
+  333:58    error    '_e' is defined but never used                               no-unused-vars
+  354:26    error    '_event' is defined but never used                           no-unused-vars
+  444:51    error    '_msg' is defined but never used                             no-unused-vars
+  495:51    error    '_msg' is defined but never used                             no-unused-vars
+  576:18    error    'e' is defined but never used                                no-unused-vars
+  657:51    error    '_event' is defined but never used                           no-unused-vars
+  657:59    error    '_name' is defined but never used                            no-unused-vars
+  707:1983  warning  Unused eslint-disable directive (no problems were reported)
+
+/home/sha5/recall-engine/recall-server/venv/lib/python3.12/site-packages/matplotlib/backends/web_backend/js/mpl_tornado.js
+  6:10  error  'mpl_ondownload' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+/home/sha5/recall-engine/recall-server/venv/lib/python3.12/site-packages/matplotlib/backends/web_backend/js/nbagg_mpl.js
+   11:31  error  '_event' is defined but never used               no-unused-vars
+   54:33  error  '_format' is defined but never used              no-unused-vars
+   90:5   error  'IPython' is not defined                         no-undef
+  101:49  error  '_remove_interactive' is defined but never used  no-unused-vars
+  111:5   error  'IPython' is not defined                         no-undef
+  129:26  error  '_event' is defined but never used               no-unused-vars
+  190:48  error  '_evt' is defined but never used                 no-unused-vars
+  222:9   error  'IPython' is not defined                         no-undef
+  223:9   error  'IPython' is not defined                         no-undef
+  226:9   error  'IPython' is not defined                         no-undef
+  230:58  error  '_name' is defined but never used                no-unused-vars
+  235:21  error  'IPython' is not defined                         no-undef
+  236:9   error  'IPython' is not defined                         no-undef
+  240:51  error  '_msg' is defined but never used                 no-unused-vars
+  249:17  error  'IPython' is not defined                         no-undef
+  270:5   error  'IPython' is not defined                         no-undef
+  271:5   error  'IPython' is not defined                         no-undef
+
+/home/sha5/recall-engine/recall-server/venv/lib/python3.12/site-packages/sklearn/utils/_repr_html/estimator.js
+    1:10  error  'copyToClipboard' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  106:10  error  'forceTheme' is defined but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+
+/home/sha5/recall-engine/recall-server/venv/lib/python3.12/site-packages/torch/utils/model_dump/code.js
+   57:17  error  'children' is defined but never used                                                       no-unused-vars
+  524:21  error  'offset' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  524:29  error  'size' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  524:35  error  'stride' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  524:43  error  'grad' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  525:12  error  'dtype' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  525:24  error  'device' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  525:32  error  'numel' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  529:21  error  'offset' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  529:29  error  'size' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  529:35  error  'stride' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  529:43  error  'quantizer' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  529:54  error  'grad' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  530:12  error  'dtype' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  530:24  error  'device' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  530:32  error  'numel' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u      no-unused-vars
+  538:15  error  'name' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  544:19  error  'key' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u        no-unused-vars
+
+/home/sha5/recall-engine/src/App.jsx
+    1:38  error    'useRef' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              no-unused-vars
+   39:6   warning  React Hook useEffect has a missing dependency: 'fetchMemories'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           react-hooks/exhaustive-deps
+  161:14  error    'e' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              no-unused-vars
+  262:27  error    'isTop' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      no-unused-vars
+  510:18  error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  508 |   useEffect(() => {
+  509 |     const hasSeen = sessionStorage.getItem('hasSeenWelcome');
+> 510 |     if (hasSeen) setVisible(false);
+      |                  ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  511 |   }, []);
+  512 |
+  513 |   const handleDismiss = () => {  react-hooks/set-state-in-effect
+
+✖ 74 problems (72 errors, 2 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
