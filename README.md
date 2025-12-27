@@ -1,6 +1,6 @@
 # 🧠 Loci - AI-Powered Object Recall Assistant
-<img width="1870" height="948" alt="loci login" src="https://github.com/user-attachments/assets/bec<img width="1870" height="948" alt="loci pg1" src="https://github.com/user-attachments/assets/7f567c5e-c38c-45b4-bc94-63967684f0e6" />
-7374b-cb4a-4dc7-9da0-90bfbc52a470" /><img width="1870" height="948" alt="loci search" src="https://github.com/user-attachments/assets/aa35b760-3386-4a4e-958a-c0fa00850166" />
+<img width="1870" height="948" alt="loci pg1" src="https://github.com/user-attachments/assets/7f567c5e-c38c-45b4-bc94-63967684f0e6" />
+<img width="1870" height="948" alt="loci search" src="https://github.com/user-attachments/assets/aa35b760-3386-4a4e-958a-c0fa00850166" />
 
 
 > **"Where did I put my keys?"** — Never ask this question again.
